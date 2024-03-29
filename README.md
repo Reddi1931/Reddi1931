@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Reddi1931
+- 👋 Hi, I’m Reddi sai
 - 👀 I’m interested to join as a Java software devloper
 - 🌱 I’m currently learning spring boot,spring MVC
 - 💞️ I’m looking to collaborate on ...
