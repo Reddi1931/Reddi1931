@@ -5,9 +5,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Reddi1931&label=Profile%20views&color=0e75b6&style=flat" alt="Reddi1931" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Reddi1931&theme=" alt="Reddi1931" /></a>
 
-- 🔭 I’m currently working on **Food Delivery Application**
-- 🌱 I’m currently learning **Spring Mvc, Springboot, React JS,JSP **
-- 💬 Ask me about **Java, HTML,CSS,JavaScript,Jdbc,Servlets**
+- 🔭 I’m currently working on **TRIPC CAR RENTAL APPLICATON**
+- 🌱 I’m currently learning **AWS, Docker And Kubernets**
+- 💬 Ask me about **Java,Springboot,Spring cloud,Microservices,Apache Kafka, Rabbitmq,React JS**
 - 📫 How to reach me **reddi1931@gmail.com**
 </p>
 <div> <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/reddi-sai-4233932a0/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
